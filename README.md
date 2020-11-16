@@ -1,1 +1,2 @@
-# throw-stone
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
